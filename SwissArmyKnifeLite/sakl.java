@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Copyright (C) 2018 Eric Pogue. All rights reserved. 
+ * Copyright (C) 2019 Eric Pogue. All rights reserved. 
  * 
  * This file is part of the SwissArmyKnifeLite (sakl) project.
  * 
